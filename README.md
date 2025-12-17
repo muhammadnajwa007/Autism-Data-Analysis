@@ -5,6 +5,8 @@ This project focuses on analyzing autism-related image data using Python. The an
 
 ## 📊 Dataset
 Image dataset containing autism and non-autism categories used for exploratory analysis and visualization.
+This repository includes a small sample of the image dataset for demonstration purposes.
+The full dataset is not included due to size limitations.
 
 ## 🔍 Analysis Process
 - Data cleaning and preprocessing
@@ -15,6 +17,8 @@ Image dataset containing autism and non-autism categories used for exploratory a
 ## 💡 Key Insights
 - Differences in data distribution between Autism and Non-Autism samples
 - Visualization highlights distinguishing characteristics in the dataset
+- Image data distribution shows differences between Autism and Non-Autism categories
+- Visualization highlights potential distinguishing patterns
 
 ## 🛠 Tools
 - Python
